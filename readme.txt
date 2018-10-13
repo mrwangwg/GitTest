@@ -4,4 +4,8 @@ hello world!
 
 aaaaa
 
+<<<<<<< HEAD
 i am develop branch
+=======
+bbbbbb
+>>>>>>> master
